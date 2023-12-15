@@ -32,17 +32,17 @@ Music & SFX
 * ["Sleepless City"](https://www.chosic.com/download-audio/32075/) by [Keys of Moon](https://soundcloud.com/keysofmoon) Music promoted by https://www.chosic.com/free-music/all/ Creative Commons [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * ["Hitman"](https://www.chosic.com/free-music/all/?keyword=hitman#:~:text=Preview%20all-,Hitman,-Kevin%20MacLeod) by [Kevin MacLeod](https://incompetech.com/) Music promoted by https://www.chosic.com/free-music/all/ Creative Commons [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 * ["Chase"](https://www.chosic.com/download-audio/26013/) by [Alexander Nakarada](https://creatorchords.com) Music promoted by https://www.chosic.com/free-music/all/ Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-* "mixkit-unlock-game-notification-253" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)https://mixkit.co/license/#sfxFree
-* "mixkit-game-level-completed-2059" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)https://mixkit.co/license/#sfxFree
-* "mixkit-happy-bell-alert-601" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)https://mixkit.co/license/#sfxFree
-* "mixkit-video-game-treasure-2066" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)https://mixkit.co/license/#sfxFree
-* "mixkit-animated-small-group-applause-523" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)https://mixkit.co/license/#sfxFree
+* "mixkit-unlock-game-notification-253" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
+* "mixkit-game-level-completed-2059" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
+* "mixkit-happy-bell-alert-601" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
+* "mixkit-video-game-treasure-2066" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
+* "mixkit-animated-small-group-applause-523" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
 * "laser-hum-intense-constant-electrical-buzzing" by [ProSoundEffects](https://www.pond5.com/artist/prosoundeffects) is licensed under the [Pond5 Individual License](https://www.pond5.com/our-licenses)
 * is licensed under the Mixkit License.
-* "mixkit-wrong-answer-fail-notification-946" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)https://mixkit.co/license/#sfxFree
-* mixkit-hellhound-monster-attack-dog-wolf-creature-3015 is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)https://mixkit.co/license/#sfxFree
-* mixkit-fantasy-monster-grunt-1977 is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)https://mixkit.co/license/#sfxFree
-* mixkit-small-monster-growl-1968 is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)https://mixkit.co/license/#sfxFree
+* "mixkit-wrong-answer-fail-notification-946" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
+* mixkit-hellhound-monster-attack-dog-wolf-creature-3015 is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
+* mixkit-fantasy-monster-grunt-1977 is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
+* mixkit-small-monster-growl-1968 is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
 * Dog Bite by Mike Koenig is licensed under [CC-BY 3.0 License](https://creativecommons.org/licenses/by/3.0/)
 * barking-3-47779 by Pixabay is free for use under the [Pixabay Content License](https://pixabay.com/service/license-summary/)
 * Single Dog Bark (King Charles Spaniel) by by Pixabay is free for use under the [Pixabay Content License](https://pixabay.com/service/license-summary/)
