@@ -53,4 +53,5 @@ Music & SFX
 * "mixkit-hellhound-monster-attack-dog-wolf-creature-3015" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
 * "mixkit-fantasy-monster-grunt-1977" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
 * "mixkit-small-monster-growl-1968" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
-
+* ["Lets Go Male Voice 05"](https://www.pond5.com/sound-effects/item/137141086-lets-go-male-voice-05) by SoundCityLab / Pond5 is licensed under the [Pond5 Individual License](https://www.pond5.com/our-licenses)
+* ["Voxmale_Vocal Male One Shot Lets Go Brave Victory_Esm_Asoldier"](https://www.pond5.com/sound-effects/item/197826011-voxmale_vocal-male-one-shot-lets-go-brave-victory_esm_asoldi) by SoundCityLab / Pond5 is licensed under the [Pond5 Individual License](https://www.pond5.com/our-licenses)
