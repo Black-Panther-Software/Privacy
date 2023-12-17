@@ -10,7 +10,9 @@ Museum Assets
 
 Egypt Assets
 * ["Adventure Character 1"](https://www.gamedevmarket.net/asset/adventurer-character-spritesheet-3567) by [pasilan](https://www.gamedevmarket.net/member/pasilan) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
+* ["Adventurer Spritesheet 4"](https://www.gamedevmarket.net/asset/adventurer-spritesheet-4-3599) by [ZouhairSerrar](https://www.gamedevmarket.net/member/ZouhairSerrar) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
 * ["Escape From Egypt Platformer Game Assets"](https://www.gamedevmarket.net/asset/escape-from-egypt-platformer-game-assets) by [pasilan](https://www.gamedevmarket.net/member/pasilan) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
+* 
 
 City Assets
 * [“Skater Girl 2D Character Sprites”](https://www.gamedevmarket.net/asset/skater-girl-2d-character-sprites) by [moonstars](https://www.gamedevmarket.net/member/moonstars) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
@@ -55,3 +57,4 @@ Music & SFX
 * "mixkit-small-monster-growl-1968" is licensed under the [Mixkit Sound Effects Free License.](https://mixkit.co/license/#sfxFree)
 * ["Lets Go Male Voice 05"](https://www.pond5.com/sound-effects/item/137141086-lets-go-male-voice-05) by SoundCityLab / Pond5 is licensed under the [Pond5 Individual License](https://www.pond5.com/our-licenses)
 * ["Voxmale_Vocal Male One Shot Lets Go Brave Victory_Esm_Asoldier"](https://www.pond5.com/sound-effects/item/197826011-voxmale_vocal-male-one-shot-lets-go-brave-victory_esm_asoldi) by SoundCityLab / Pond5 is licensed under the [Pond5 Individual License](https://www.pond5.com/our-licenses)
+* ["yaaay-86041"](https://pixabay.com/sound-effects/yaaay-86041/) by Pixabay is free for use under the [Pixabay Content License](https://pixabay.com/service/license-summary/)
