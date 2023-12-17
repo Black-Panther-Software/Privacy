@@ -7,6 +7,7 @@ Core Game Assets
 
 Museum Assets
 * ["Thief Boy Game Sprites"](https://www.gamedevmarket.net/asset/thief-boy-game-sprites-4360) by [mikailain](https://www.gamedevmarket.net/member/mikailain) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
+* ["Natural history, ethnographic, paleontology, art museum cartoon vector concept."](https://www.freepik.com/free-vector/natural-history-ethnographic-paleontology-art-museum-cartoon-vector-concept_4394137.htm) by vectorpouch on Freepik
 
 Egypt Assets
 * ["Adventure Character 1"](https://www.gamedevmarket.net/asset/adventurer-character-spritesheet-3567) by [pasilan](https://www.gamedevmarket.net/member/pasilan) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
