@@ -19,6 +19,8 @@ Jungle Assets
 * ["Animated 2D monkey sprite"](https://www.gamedevmarket.net/asset/animated-2d-monkey-sprite) by [RobertBrooks](https://www.gamedevmarket.net/member/robertbrooks) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
 * ["Gorilla"](https://www.gamedeveloperstudio.com/graphics/viewgraphic.php?page-name=Gorilla&item=1i558i5w5388777h3h) is licensed under GameDeveloperStudio's [license agreement](https://www.gamedeveloperstudio.com/license.php)
 * Music by <a href="https://pixabay.com/users/redproductions-970568/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20622">Yoav Alyagon</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20622">Pixabay</a>
+* ["creature_gruu"](https://freesound.org/people/FairCashew/sounds/686369/) by [FairCashew](https://freesound.org/people/FairCashew/) is licensed under [Creative Commons CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+* ["Grunt"](https://freesound.org/people/punisherman/sounds/370036/) by [punisherman](https://freesound.org/people/punisherman/sounds/370036/) is licensed under [Creative Commons CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 City Assets
 * [“Skater Girl 2D Character Sprites”](https://www.gamedevmarket.net/asset/skater-girl-2d-character-sprites) by [moonstars](https://www.gamedevmarket.net/member/moonstars) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
