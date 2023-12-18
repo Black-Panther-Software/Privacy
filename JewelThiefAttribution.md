@@ -13,12 +13,16 @@ Egypt Assets
 * ["Adventure Character 1"](https://www.gamedevmarket.net/asset/adventurer-character-spritesheet-3567) by [pasilan](https://www.gamedevmarket.net/member/pasilan) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
 * ["Adventurer Spritesheet 4"](https://www.gamedevmarket.net/asset/adventurer-spritesheet-4-3599) by [ZouhairSerrar](https://www.gamedevmarket.net/member/ZouhairSerrar) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
 * ["Escape From Egypt Platformer Game Assets"](https://www.gamedevmarket.net/asset/escape-from-egypt-platformer-game-assets) by [pasilan](https://www.gamedevmarket.net/member/pasilan) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
-* 
+
+Jungle Assets
+* ["Forest tile set"](https://www.gamedeveloperstudio.com/graphics/viewgraphic.php?page-name=Forest-tile-set&item=1l61610n842v97849m) is licensed under GameDeveloperStudio's [license agreement](https://www.gamedeveloperstudio.com/license.php)
+* ["Animated 2D monkey sprite"](https://www.gamedevmarket.net/asset/animated-2d-monkey-sprite) by [RobertBrooks](https://www.gamedevmarket.net/member/robertbrooks) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
+* ["Gorilla"](https://www.gamedeveloperstudio.com/graphics/viewgraphic.php?page-name=Gorilla&item=1i558i5w5388777h3h) is licensed under GameDeveloperStudio's [license agreement](https://www.gamedeveloperstudio.com/license.php)
 
 City Assets
 * [“Skater Girl 2D Character Sprites”](https://www.gamedevmarket.net/asset/skater-girl-2d-character-sprites) by [moonstars](https://www.gamedevmarket.net/member/moonstars) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
 * [“Skater Boy Character”](https://www.gamedevmarket.net/asset/skater-boy-character) by [moonstars](https://www.gamedevmarket.net/member/moonstars) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
-* ["City scene mega pack by](https://www.gamedevmarket.net/asset/city-scene-mega-pack") [RobertBrooks](https://www.gamedevmarket.net/member/robertbrooks) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
+* ["City scene mega pack by](https://www.gamedevmarket.net/asset/city-scene-mega-pack") by [RobertBrooks](https://www.gamedevmarket.net/member/robertbrooks) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
 
 Night City Assets
 * ["Animated whippet"](https://www.gamedevmarket.net/asset/animated-whippet) by [RobertBrooks](https://www.gamedevmarket.net/member/robertbrooks) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
