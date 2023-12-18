@@ -27,6 +27,7 @@ Night City Assets
 * ["City 2D Game VECTOR BACKGROUND"](https://www.gamedevmarket.net/asset/city-2d-game-vector-background) by [MIMIMJ](https://www.gamedevmarket.net/member/MIMIMJ) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
 * ["Animated cat game character pack"](https://www.gamedevmarket.net/asset/animated-cat-game-character-pack) by [RobertBrooks](https://www.gamedevmarket.net/member/robertbrooks) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
 * ["Bad dog game sprite"](https://www.gamedevmarket.net/asset/bad-dog-game-sprite) by [RobertBrooks](https://www.gamedevmarket.net/member/robertbrooks) is licensed under [GameDevMarket.net Licensing Terms](https://www.gamedevmarket.net/terms-conditions#marketplace-terms).
+* [Free Jumping Up Game Objects](https://craftpix.net/freebies/free-jumping-up-game-objects/) by craftpix.net is freely available uner CraftPix.net's [freebee products file license](https://craftpix.net/file-licenses/)
 
 Music & SFX
 * ["comic5-25269"](https://pixabay.com/sound-effects/comic5-25269/) by PixaBay is free for use under the [Pixabay Content License](https://pixabay.com/service/license-summary/)
